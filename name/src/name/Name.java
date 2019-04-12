@@ -9,6 +9,8 @@ public class Name {
 		i++;
 	}
 	public static void main(String args[]){
+		int a = 1;
+		System.out.println(a);
 //		InetAddress myId=null;
 //		try {
 //			myId=InetAddress.getByName("www.baidu.com");
